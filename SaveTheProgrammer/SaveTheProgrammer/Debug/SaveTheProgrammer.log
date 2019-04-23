@@ -1,0 +1,15 @@
+﻿Build started 2/1/2017 6:26:48 PM.
+     1>Project "E:\IGraphics\SaveTheProgrammer\SaveTheProgrammer\SaveTheProgrammer\SaveTheProgrammer.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt iMain.cpp
+         iMain.cpp
+     1>e:\igraphics\savetheprogrammer\savetheprogrammer\savetheprogrammer\imain.cpp(37): warning C4005: 'max' : macro redefinition
+                 c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(193) : see previous definition of 'max'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\IGraphics\SaveTheProgrammer\SaveTheProgrammer\Debug\SaveTheProgrammer.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\IGraphics\SaveTheProgrammer\SaveTheProgrammer\Debug\SaveTheProgrammer.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\IGraphics\SaveTheProgrammer\SaveTheProgrammer\Debug\SaveTheProgrammer.lib" /MACHINE:X86 Debug\iMain.obj
+         SaveTheProgrammer.vcxproj -> E:\IGraphics\SaveTheProgrammer\SaveTheProgrammer\Debug\SaveTheProgrammer.exe
+     1>Done Building Project "E:\IGraphics\SaveTheProgrammer\SaveTheProgrammer\SaveTheProgrammer\SaveTheProgrammer.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.30
